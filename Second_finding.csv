@@ -1,0 +1,44 @@
+,services,Average time to get resolved(hours)
+0,Other - Internal Services & Strategy,1321.71
+1,Midrange - Windows -X86,1161.99
+2,Intra-building Network Services,1109.29
+3,Data Centre Facilities Management,1038.86
+4,Internal Credential Management (ICM),912.17
+5,Firewall,732.37
+6,High-performance Computing,557.26
+7,Other - Security,515.86
+8,Other - Service Management,515.02
+9,Facilities - Data Centre Facilities Racking & Stacking,465.03
+10,IBN - GC LAN,445.52
+11,Email,416.3
+12,Conferencing - Videoconferencing,362.99
+13,Other - Data Centre,343.76
+14,GC WAN,323.44
+15,Government of Canada Managed Security Service,306.25
+16,HPC - Interaction & Visualization,302.37
+17,Fixed Line,277.92
+18,Storage - File,276.16
+19,Contact Centre,239.01
+20,Directory Services,214.66
+21,IBN - Data Centre Network,175.78
+22,IBN - Cabling - Install and Material,162.74
+23,Secure Remote Access,146.65
+24,Storage,129.5
+25,Mobile - Enterprise Mobile Device Management (EMDM),123.11
+26,IBN - GC Wi-Fi,118.83
+27,Middleware,106.93
+28,Facilities - Data Centre Facilities Power & Space,82.83
+29,Midrange,82.29
+30,HPC -Big Data Exchange,58.04
+31,Bulk Print,
+32,Classified Infrastructure - GCSI - Hosting Environment,
+33,Cloud Brokering,
+34,Fixed - PBX,
+35,Fixed - VoIP,
+36,Mainframe,
+37,Mainframe - zOS & zLinux,
+38,Other - Account & Service Delivery Management,
+39,Other - Project Management & Delivery,
+40,Other - Telecom & Network,
+41,Satellite,
+42,Toll-free Voice,
